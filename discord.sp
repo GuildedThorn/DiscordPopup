@@ -4,7 +4,7 @@
 #pragma newdecls required
 
 public Plugin myinfo = {
-    name        = "Discord Invite",
+    name        = "DiscordPopup",
     author      = "Optical",
     description = "A plugin that shows the discord links page in a web broweser after running !discord",
     version     = "1.0",
